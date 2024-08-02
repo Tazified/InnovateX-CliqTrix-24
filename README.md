@@ -22,7 +22,7 @@
 
 ## Collaborator
 
-- Collaborator Name: [Ajay Kumar](https://github.com/Tazified)
+- Collaborator Name: [Sachin Ram](https://github.com/Sachin-Ram)
 
 ## Feedback
 
@@ -30,7 +30,7 @@ Your feedback is valuable! If you have any suggestions, encounter issues, or wan
 
 ## Contact Me
 
-If you have any questions or inquiries about the project, feel free to reach out to me via email at [sachinram2509@gmail.com](mailto:sachinram2509@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/sachin-ram-94418a226).
+If you have any questions or inquiries about the project, feel free to reach out to me via email at [ajaytaz75@gmail.com](mailto:ajaytaz75@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ajaytaz/).
 
 
 Thank you for visiting the Innovate X Travel Recommendor Bot repository!
